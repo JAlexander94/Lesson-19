@@ -1,6 +1,6 @@
 // Highlight which elements in the DOM are the children of the parent element
 // Uncomment the following two lines to see the which elements are the children to the #top
-// $('#top').children().css('color', 'yellow');
+//$('#top').children().css('color', 'yellow');
 // console.log($('#top').children());
 
 // Uncomment the following line to see the which element is the first direct child of the <main>
